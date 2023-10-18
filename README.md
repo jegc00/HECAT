@@ -2,36 +2,37 @@
 
 Source code from the website MyLabourMarket.com, developed under the HECAT project, which has received funding from the European Union’s Horizon 2020 research & innovation programme under grant agreement No 870702.
 
-●	Servidor de BBDD mysql ###Version para funcionalidades básicas de registro de usuarios y gestión de contenidos estáticos del sitio web.
-●	Framework de desarrollo Django #Version
-●	API REST JSON (### URL SLOVEN )  Que ofrece los datos estadísticos para posibilitar las consultas del usuario.
-●	Bootstrap para el desarrollo del front end #Version
-●	Código proyecto Hecat (para Django vXXX ), desarrollado por CodeSyntax
-●	Librerías Django más importantes utilizadas
-○	Django-3.2
-○	django-htmx-1.13.0
-○	django-import-export-3.0.2
-○	drf-form-bootstrap-4-0.5.2
-○	djangorestframework-3.14.0
-○	django-bootstrap-pagination-1.7.1
-○	XlsxWriter-1.3.6
-○	suds-py3-1.4.5.0
-○	django-structured-data-0.5.1
-○	Pillow-9.4.0-py3.8-linux-x86-64.egg',
-○	django-object-actions-4.1.0
-○	django-leaflet-0.28.0
-○	django-bootstrap4-22.3
-○	django-registration-3.3
-○	django-multiselectfield-0.1.12
-○	django-page-cms-2.0.11
-○	django-ckeditor-6.5.1
-○	django-baton-1.12.1
-○	django-location-field-2.1.0
-○	django-modeltranslation-0.18.8
-○	bootstrap-admin-0.4.4
-○	gunicorn-20.1.0
-○	django-photologue-3.15.1
-○	mysqlclient-2.0.3
+Servidor de BBDD mysql ###Version para funcionalidades básicas de registro de usuarios y gestión de contenidos estáticos del sitio web.
+Framework de desarrollo Django #Version
+API REST JSON (### URL SLOVEN )  Que ofrece los datos estadísticos para posibilitar las consultas del usuario.
+Bootstrap para el desarrollo del front end #Version
+Código proyecto Hecat (para Django vXXX )
+Librerías Django más importantes utilizadas
+- Django-3.2
+-django-htmx-1.13.0
+-django-import-export-3.0.2
+-drf-form-bootstrap-4-0.5.2
+-djangorestframework-3.14.0
+-django-bootstrap-pagination-1.7.1
+-XlsxWriter-1.3.6
+-suds-py3-1.4.5.0
+-django-structured-data-0.5.1
+-Pillow-9.4.0-py3.8-linux-x86-64.egg',
+-django-object-actions-4.1.0
+-django-leaflet-0.28.0
+-django-bootstrap4-22.3
+-django-registration-3.3
+-django-multiselectfield-0.1.12
+-django-page-cms-2.0.11
+-django-ckeditor-6.5.1
+-django-baton-1.12.1
+-django-location-field-2.1.0
+-django-modeltranslation-0.18.8
+-bootstrap-admin-0.4.4
+-gunicorn-20.1.0
+-django-photologue-3.15.1
+-mysqlclient-2.0.3
+
 
 
 ## Getting started
