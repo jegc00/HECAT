@@ -2,12 +2,12 @@
 
 Source code from the website MyLabourMarket.com, developed under the HECAT project, which has received funding from the European Union’s Horizon 2020 research & innovation programme under grant agreement No 870702.
 
-Servidor de BBDD mysql ###Version para funcionalidades básicas de registro de usuarios y gestión de contenidos estáticos del sitio web.
-Framework de desarrollo Django #Version
-API REST JSON (### URL SLOVEN )  Que ofrece los datos estadísticos para posibilitar las consultas del usuario.
-Bootstrap para el desarrollo del front end #Version
-Código proyecto Hecat (para Django vXXX )
-Librerías Django más importantes utilizadas
+Mysql DB Server ###Version for basic user registration functionalities and website static content management.
+Django Development Framework #Version
+REST JSON API (### URL SLOVEN) Which offers statistical data to enable user queries.
+Bootstrap for front end development #Version
+Hecat project code (for Django vXXX)
+Most important Django libraries used
 - Django-3.2
 -django-htmx-1.13.0
 -django-import-export-3.0.2
